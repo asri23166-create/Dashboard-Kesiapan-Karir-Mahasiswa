@@ -1,12 +1,8 @@
-matplotlib
 streamlit
 pandas
 numpy
+matplotlib
 plotly
-scikit-learn==1.6.1
-xgboost
 joblib
-openpyxl
 pytz
-imbalanced-learn
-python==3.10
+scikit-learn==1.6.1
